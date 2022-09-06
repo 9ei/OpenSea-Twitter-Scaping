@@ -1,4 +1,4 @@
-# OpenSeaTwitterScaping
+# OpenSea Twitter Scaping
 A program written in Python using the cloudscraper module to scrape all twitter profiles linked to users holding items from a inputted NFT collection.
 
 Line 22 "while count < 5559:" must be changed to match the total NFTs in the target collection
